@@ -1,3 +1,4 @@
+package com.company;
 
 public class Java_07_01_odd_even
 {
